@@ -1,4 +1,6 @@
-This repository has files related to the Data Mining Course Projec.
+This repository has files related to the Data Mining Course Project.
 1. Notebook
 2. Final Report
 3. Slide show of the project.
+
+Our goal was to predict if the fifa player worth more than 100 million euros using multiple machine learning libraries and finding the best with high AUC. 
